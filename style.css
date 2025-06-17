@@ -11,7 +11,7 @@ body {
   display: flex;
   flex-direction: column;
   height: 100vh;
-  background-image: url("/HeroImage.jpg");
+  background-image: url("./HeroImage.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -71,7 +71,7 @@ body {
 }
 /* location */
 .location {
-  background-image: url(/Location\ image.jpg);
+  background-image: url(./Location\ image.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -93,18 +93,18 @@ body {
 }
 
 .box1 {
-  background-image: url(/Hover\ card\ image.png);
+  background-image: url(./Hover\ card\ image.png);
 }
 .box2 {
-  background-image: url(/Untitled.png);
+  background-image: url(./Untitled.png);
 }
 
 .box3 {
-  background-image: url(/Hover\ card\ image11.png);
+  background-image: url(./Hover\ card\ image11.png);
 }
 
 .box4 {
-  background-image: url(/horgiin\ togio.png);
+  background-image: url(./horgiin\ togio.png);
 }
 
 .text {
@@ -124,7 +124,7 @@ body {
 }
 /* roud map */
 .roud {
-  background-image: url(/1111111.png);
+  background-image: url(./1111111.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -231,7 +231,7 @@ body {
 /* foot */
 .foot {
   height: 100vh;
-  background-image: url(/Price&Footer\ image.png);
+  background-image: url(./Price&Footer\ image.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
